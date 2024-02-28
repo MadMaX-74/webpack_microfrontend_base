@@ -1,0 +1,1 @@
+# webpack_microfrontend_base
